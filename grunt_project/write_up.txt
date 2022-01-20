@@ -1,0 +1,12 @@
+1. In the project ,i was created  the  index.html ans css files 
+
+2. apply some grunt plugins to my app
+  there are autoprefixer,watch,copy,cssmin,imagemin,connect
+
+3.if you make any changes in index.html file it will reflect on browser when you refresh page
+
+4.if you make any changes in css files then save it, it will automatically compile by using grunt watch
+
+5.Displayed the output of index.html file on browser using connect grunt plugin on 8080 post
+
+6.outputs are uploaded for reference

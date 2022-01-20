@@ -1,0 +1,6 @@
+h1{
+    background-color: rgb(44, 214, 157);
+}
+p{
+    background-color:rgb(6, 52, 138);
+}
